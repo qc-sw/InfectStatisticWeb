@@ -1,1 +1,2 @@
 # InfectStatisticWeb
+qc call sw
